@@ -4,8 +4,10 @@
         <meta charset="UTF-8">
         <p><h1>Joseph Malcolm Pugh Jr</h1></p>
     </head>
+        <p align="right">
         <h4>2100 36th Ave S, Grand Forks ND 58203
         <br>Cell: 651-354-1756 - Jmalcolmp@gmail.com</h4>
+        </p>
         <section>
         <p id="external">
             <h2><em><strong>Summary of Skills</strong></em></h2>
