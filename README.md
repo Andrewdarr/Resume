@@ -5,7 +5,7 @@
         <p><h1>Joseph Malcolm Pugh Jr</h1></p>
     </head>
         <p align="right">
-        <h4>935 North 12th Street Apt 14 Grand Junction, CO
+        <h4>935 North 12th Street Apt 14, Grand Junction, CO
         <br>Cell: 651-354-1756 - Jmalcolmp@gmail.com</h4>
         </p>
         <section>
