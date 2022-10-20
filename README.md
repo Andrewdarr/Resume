@@ -1,5 +1,5 @@
 <html lang="en">
-    <body style="background-color:#e6fff9">
+    <body style="background-color:#e6f009">
         <head>
             <meta charset="UTF-8">
             <p><h1>Joseph Malcolm Pugh Jr</h1></p>
